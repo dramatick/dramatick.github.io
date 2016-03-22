@@ -18,7 +18,7 @@ Propagace Sci-fi literatury
 </rdf:Bag>
 </dc:Title>
 <dc:Creator>
-Ladislav Svatoš
+Ladislav SvatoÅ¡
 </dc:Creator>
 <dc:Subject>
 <rdf:Bag>
@@ -44,7 +44,7 @@ Propagace
 Propagace Sci-fi literatury
 </dc:Title>
 <dc:Creator>
-Ladislav Svatoš
+Ladislav SvatoÅ¡
 </dc:Creator>
 <dc:Subject>
 <rdf:Bag>
@@ -62,7 +62,7 @@ Propagace
 <dc:Description>
 <rdf:Description>
 <dcq:DescriptionType>abstract</dcq:DescriptionType>
-<rdf:value>Dokument se zabıvá historií a aktuální situací s propagací sci-fi literatury u nás i ve svìtì. Ètenáø je finále seznámen s potenciálním novım zpùsobem propagace.</rdf:value>
+<rdf:value>Dokument se zabÃ½vÃ¡ historiÃ­ a aktuÃ¡lnÃ­ situacÃ­ s propagacÃ­ sci-fi literatury u nÃ¡s i ve svÃ¬tÃ¬. ÃˆtenÃ¡Ã¸ je finÃ¡le seznÃ¡men s potenciÃ¡lnÃ­m novÃ½m zpÃ¹sobem propagace.</rdf:value>
 </rdf:Description>
 </dc:Description>
 <dc:Publisher>
@@ -94,6 +94,6 @@ Univerzita Karlova v Praze
 <rdf:value>cze</rdf:value>
 </rdf:Description>
 </dc:Language>
-<dc:Rights>Dokument je dostupnı pod licencí CC BY</dc:Rights>
+<dc:Rights>Dokument je dostupnÃ½ pod licencÃ­ CC BY</dc:Rights>
 </rdf:Description>
 </rdf:RDF>
