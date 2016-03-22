@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:dcq="http://purl.org/dc/documents/rec/dcmes-qualifiers-20000711.htm">
+<rdf:Description rdf:about="Propagace Sci-fi literatury">
+<dc:Title>
+<rdf:Bag>
+<rdf:li>
+Propagace Sci-fi literatury
+</rdf:li>
+<rdf:li>
+<rdf:Description>
+<dcq:TitleType>alternative</dcq:TitleType>
+<rdf:value>Propagation of Sci-fi literatury</rdf:value>
+</rdf:Description>
+</rdf:li>
+</rdf:Bag>
+</dc:Title>
+<dc:Creator>
+Ladislav Svatoš
+</dc:Creator>
+<dc:Subject>
+<rdf:Bag>
+<rdf:li>
+Literatura
+</rdf:li>
+<rdf:li>
+Sci-fi
+</rdf:li>
+<rdf:li>
+Propagace
+</rdf:li>
+</rdf:Bag>
+</dc:Subject>
+<dc:Description>
+<?xml version="1.0"?>
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:dcq="http://purl.org/dc/documents/rec/dcmes-qualifiers-20000711.htm">
+<rdf:Description rdf:about="Propagace Sci-fi literatury">
+<dc:Title>
+Propagace Sci-fi literatury
+</dc:Title>
+<dc:Creator>
+Ladislav Svatoš
+</dc:Creator>
+<dc:Subject>
+<rdf:Bag>
+<rdf:li>
+Literatura
+</rdf:li>
+<rdf:li>
+Sci-fi
+</rdf:li>
+<rdf:li>
+Propagace
+</rdf:li>
+</rdf:Bag>
+</dc:Subject>
+<dc:Description>
+<rdf:Description>
+<dcq:DescriptionType>abstract</dcq:DescriptionType>
+<rdf:value>Dokument se zabývá historií a aktuální situací s propagací sci-fi literatury u nás i ve svìtì. Ètenáø je finále seznámen s potenciálním novým zpùsobem propagace.</rdf:value>
+</rdf:Description>
+</dc:Description>
+<dc:Publisher>
+Univerzita Karlova v Praze
+</dc:Publisher>
+<dc:Date>
+<rdf:Description>
+<dcq:DateType>created</dcq:DateType>
+<dcq:DateScheme>W3C-DTF</dcq:DateScheme>
+<rdf:value>2016-03-20</rdf:value>
+</rdf:Description>
+</dc:Date>
+<dc:Type>
+<rdf:Description>
+<dcq:TypeSheme>DCMIType</dcq:TypeSheme>
+<rdf:value>Text</rdf:value>
+</rdf:Description>
+</dc:Type>
+<dc:Format>
+<rdf:Description>
+<dcq:FormatSheme>IMT</dcq:FormatSheme>
+<rdf:value>text/html</rdf:value>
+</rdf:Description>
+</dc:Format>
+<dc:Identifier>http://dramatick.github.io/Propagace%20Sci-fi%20literatury%20-%20Svato%C5%A1.pdf</dc:Identifier>
+<dc:Language>
+<rdf:Description>
+<dcq:LanguageScheme>RFC3066</dcq:LanguageScheme>
+<rdf:value>cze</rdf:value>
+</rdf:Description>
+</dc:Language>
+<dc:Rights>Dokument je dostupný pod licencí CC BY</dc:Rights>
+</rdf:Description>
+</rdf:RDF>
